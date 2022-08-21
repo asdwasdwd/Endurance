@@ -6,6 +6,8 @@ The #1 Exploit for Ragdoll System Test
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/asdwasdwd/Endurance/main/Endurance.lua')))()
 ```
 
+Note: This is the first version of Endurance. It WILL have bugs, please report bugs or errors to `chacha20-ietf-poly1305#9062`
+
 ## Current features
 - Kill Aura
 - Anti Ragdoll
