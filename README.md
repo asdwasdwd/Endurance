@@ -23,7 +23,7 @@ Note: This is the first version of Endurance. There may be bugs. Please report b
 - Invisible Borders (Invisible walls around the map to prevent falling out)
 - Remove Effects (Screen shake)
 - Attack Player (Attack only the nearest or specified player with a keybind)
-- Settings to change kill aura range, speed, hbe size
+- Settings to change kill aura range, max speed, hbe size
 - Stronger God Mode & Anti Ragdoll (Not toggable, requires reset)
 
 ## Why use Endurance over RST Striker?
