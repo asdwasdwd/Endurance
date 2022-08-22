@@ -16,7 +16,7 @@ Note: This is the first version of Endurance. There may be bugs. Please report b
 - Hitbox Extender
 - God Mode
 - Speed Hack
-- Anti cheat & client ban bypass
+- Anti-Cheat & Client-Ban Bypass
 
 ## Later to come
 - Safebox (Teleport to a skybox far from the map)
