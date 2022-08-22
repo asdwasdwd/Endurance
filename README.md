@@ -22,8 +22,8 @@ Note: This is the first version of Endurance. There may be bugs. Please report b
 - Safebox (Teleport to a skybox far from the map)
 - Invisible Borders (Invisible walls around the map to prevent falling out)
 - Remove Effects (Screen shake)
+- Attack Player (Attack only the nearest or specified player with a keybind)
 - Settings to change kill aura range, speed, hbe size
-- Attack Nearest (Attack only the nearest person with a keybind)
 
 ## Why use Endurance over RST Striker?
 RST Striker is old, outdated, and doesn't receive updates. Endurance aims to provide a togglable, easy-to-use and minimal interface that doesn't clutter your screen with an oversized UI. Endurance will constantly receive bug fixes and features as new exploitable vulnerbilities are found in the game.
