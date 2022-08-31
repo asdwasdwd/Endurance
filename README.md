@@ -10,7 +10,7 @@ Note: Endurance is new. There may be bugs. Please report bugs and errors to `cha
 
 ## Current features
 - Kill Aura [Customizable]
-- Gode Mode
+- God Mode
 - Anti Knockback
 - No Cooldown
 - Hitbox Extender [Customizable]
