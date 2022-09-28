@@ -6,7 +6,7 @@ The #1 Exploit for Ragdoll System Test
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/asdwasdwd/Endurance/main/Endurance.lua')))()
 ```
 
-Note: Endurance is new. There may be bugs. Please report bugs and errors to `chacha20-ietf-poly1305#9062`
+Note: Endurance is new. There may be bugs. Please report bugs and errors to `ietf#9062`
 
 ## Current features
 - Kill Aura [Customizable]
